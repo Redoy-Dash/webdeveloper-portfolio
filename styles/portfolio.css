@@ -192,6 +192,9 @@ main section {
     text-align: center;
     margin-top: 50px;
 }
+.btn-primary a{
+    text-decoration: none;
+}
 
 /*footer style*/
 footer {

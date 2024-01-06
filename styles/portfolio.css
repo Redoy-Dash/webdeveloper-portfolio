@@ -52,8 +52,12 @@ nav a{
     color: brown;
 }
 /*header related style*/
+
 .header{
     background-color: #FFF8F3;
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .banner{
     padding: 30px 30px 0px 150px;
@@ -110,8 +114,4 @@ main{
 .skill-container{
     display: flex;
 
-}
-div > img{
-    height: 25px;
-    width: 25px;
 }

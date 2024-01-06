@@ -65,9 +65,10 @@ nav a {
 
 .header {
     background-color: #FFF8F3;
-    background-image: url(../images/header_bg.png);
+    background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    width: 100%;
 }
 
 .banner {
